@@ -59,3 +59,9 @@ Code:
 df.to_csv("../data/Preprocessed_Traffic_Data.csv", index=False) #save data
 
 df = pd.read_csv("../data/Preprocessed_Traffic_Data.csv", low_memory=False) #load data
+
+2.
+
+Prompt "Can you suggest improvements to the analysis sections of my markdown to increase the readability and depth, do not change my analysis verdicts but make improvements"
+
+Response jist: improved a few cells of my markdown just to make it clearer and a bit more professional / concise as I do tend to ramble in my explanations as well as improving the use of specific terminology.
