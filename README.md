@@ -1,6 +1,6 @@
 # Artificial Intelligence and Machine Learning
 
-An end-to-end machine learning workflow for analysing and predicting road collisions in Sheffield, built as part of the AIML1 module assessment at Sheffield Hallam University.
+An end-to-end machine learning workflow for analysing and predicting road collisions in Sheffield.
 
 ## Prerequisites
 
@@ -64,12 +64,18 @@ df = pd.read_csv("../data/Preprocessed_Traffic_Data.csv", low_memory=False) #loa
 
 2.
 
-Prompt "Can you suggest improvements to the analysis sections of my markdown to increase the readability and depth, do not change my analysis verdicts but make improvements"
+Prompt "Can you suggest improvements to the analysis sections of my markdown to increase the readability, do not change my analysis verdicts but make improvements"
 
 Response jist: improved a few cells of my markdown just to make it clearer and a bit more professional / concise as I do tend to ramble in my explanations as well as improving the use of specific terminology.
 
-3. 
+3.
 
 Prompt "Can you suggest some clearer comments for my code so that my lecturer has an easier time stepping through each cell"
 
 Response jist: improved my comments as before it was mainly short explanations with no consistent structure between each cell.
+
+4.
+
+Prompt "Can you suggest some clearer colours and better formatting for my graphs so that my lecturer or any other future users have an easier time interpreting the represented data."
+
+Response jist: Standardized colour schemes and formats between the graphs.
