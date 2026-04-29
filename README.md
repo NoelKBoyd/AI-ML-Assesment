@@ -67,3 +67,9 @@ df = pd.read_csv("../data/Preprocessed_Traffic_Data.csv", low_memory=False) #loa
 Prompt "Can you suggest improvements to the analysis sections of my markdown to increase the readability and depth, do not change my analysis verdicts but make improvements"
 
 Response jist: improved a few cells of my markdown just to make it clearer and a bit more professional / concise as I do tend to ramble in my explanations as well as improving the use of specific terminology.
+
+3. 
+
+Prompt "Can you suggest some clearer comments for my code so that my lecturer has an easier time stepping through each cell"
+
+Response jist: improved my comments as before it was mainly short explanations with no consistent structure between each cell.
